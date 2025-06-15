@@ -18,7 +18,7 @@
 
 This script is inspired by and builds upon the work of others in the community. Special thanks to the original repository [`ddns/cf-ip-renew.sh`](https://github.com/samejack/blog-content/blob/f276f628880e498402b2213c8362ef3c9dd12882/ddns/cf-ip-renew.sh) for providing a foundation. 
 
-For more details, you can also refer to the original blog post: [Cloudflare DDNS](https://blog.toright.com/posts/7333/cloudflare-ddns).
+For more details, you can also refer to the original blog post: [5 分鐘整合 Cloudflare API 實做 Cloudflare DDNS 動態 IP 對應網址](https://blog.toright.com/posts/7333/cloudflare-ddns).
 
 ### Additional Features Added
 - **Crontab Guideline**: Instructions on how to set up a crontab entry for automated execution of the script.
