@@ -1,4 +1,4 @@
-# Cloudflare-DDNS
+# Cloudflare-DDNS-Script
 
 `cloudflare-ddns.sh` is a shell script designed to update DNS records dynamically on Cloudflare. It is useful for users with dynamic IP addresses who want to update their DNS records automatically.
 
